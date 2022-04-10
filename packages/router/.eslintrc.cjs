@@ -11,5 +11,8 @@ module.exports = {
   ],
   env: {
     'vue/setup-compiler-macros': true,
+    browser: true,
+    es2021: true,
+    node: true,
   },
 }
