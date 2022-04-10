@@ -3,6 +3,14 @@
     {
       "name": "root",
       "path": "../"
+    },
+    {
+      "name": "form",
+      "path": "../packages/form"
+    },
+    {
+      "name": "modal",
+      "path": "../packages/modal"
     }
   ],
   "settings": {
@@ -17,7 +25,7 @@
       "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "files.exclude": {
-      "**/node_modules/**": false
+      "**/node_modules/**": true
     },
     "workbench.colorCustomizations": {
       "activityBar.background": "#34495e",
