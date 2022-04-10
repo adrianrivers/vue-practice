@@ -11,6 +11,10 @@
     {
       "name": "modal",
       "path": "../packages/modal"
+    },
+    {
+      "name": "router",
+      "path": "../packages/router"
     }
   ],
   "settings": {
