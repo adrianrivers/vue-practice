@@ -1,4 +1,4 @@
 {
-    "recommendations": ["johnsoncodehk.volar", "johnsoncodehk.vscode-typescript-vue-plugin", "csstools.postcss"]
+    "recommendations": ["johnsoncodehk.volar", "johnsoncodehk.vscode-typescript-vue-plugin", "csstools.postcss", "heybourn.headwind"]
 }
   
