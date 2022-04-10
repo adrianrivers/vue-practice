@@ -1,0 +1,30 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": "../"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.exclude": {
+      "**/node_modules/**": false
+    },
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#34495e",
+      "activityBar.foreground": "#41b883",
+      "activityBar.inactiveForeground": "#f5f6f7",
+      "titleBar.activeBackground": "#41b883",
+      "titleBar.activeForeground": "#000000"
+    }
+  }
+}
