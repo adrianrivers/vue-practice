@@ -13,6 +13,10 @@
       "path": "../packages/modal"
     },
     {
+      "name": "reaction-timer",
+      "path": "../packages/reaction-timer"
+    },
+    {
       "name": "router",
       "path": "../packages/router"
     }
